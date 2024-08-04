@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto; 
+    background-color: rgb(165, 236, 226);
+    padding: 20px;
+    
+}
+.header_style{
+    
+}
+
+.s2{
+    float: left;
+}
+
+.img_style{
+    height: 120px;
+    width: 100px;
+    border: 3px solid white;
+    border-radius: 50px;
+}
+
+.s3{
+    
+    float: left;
+    padding: 30px; 
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: rgb(4, 107, 107);
+}
+
+.s4{
+    float: right;
+    
+}  
+
+.s4 a{
+    padding:30px ; 
+    text-decoration: none;
+    color:rgb(4, 107, 107);
+}
+
+.s4 a:hover{
+    text-decoration:underline;
+    color: red;
+}
+
+.clearboth{
+    clear: both;
+}
+
+.header-hr{
+    
+    border: 3px solid black;
+    border-bottom: none;
+    margin: 20px auto;
+}
+
+#personal-info{
+
+}
+
+.content{
+
+}
+
+.left-div{
+    float: left;
+    max-width: 30%;
+}
+
+.right-div{
+    
+    float: right;
+    max-width: 50%;
+}
+
+.common-hr{
+    width: 100%;
+    margin: 20px auto;
+}
+
+.right-div1{
+    float: right;
+    max-width: 50%;
+    padding-right: 150px;
+}
+.skill-left{
+    width: 45%;
+    float: left;
+}
+
+.skill-right{
+    width: 45%;
+    float: right;
+}
+
+.education-left{
+    width: 45%;
+    float: left;
+}
+
+.education-right{
+    width: 45%;
+    float: right;
+}
+
+.footer_style{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.footer_style a{
+    text-decoration: double;
+    color: white;
+    padding: 3px;
+}
+
+.footer_style p{
+    color: white;
+}
+
+.footer_style a:hover{
+    color: red;
+    text-decoration: underline;
+}
